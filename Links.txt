@@ -1,0 +1,3 @@
+Some reference links for the learners https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling?resource=download
+
+Additional projects they can do on the recommendation using this dataset https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/data (not compulsory only those who are interested)

@@ -1,0 +1,23 @@
+1. Python
+2. Using SQL
+3. Data Cleaning, EDA
+4. Model creation Rgeression/Classification
+5. Deep Learning Tensorflow to create ANN with at least 3 layers and activation functions 
+6. Azure cloud to create similar output in Azure AI service
+7. Deploying your solutions on Azure AI or Azure ML Studio
+8. Consuming the solution in your custom app
+
+
+
+1. Apply other classification models -> Random Forest, Decision Trees, XGBoostClassifier, Try any other popular claffiers like SVC from SVM. Here Random Forest and XGBoostClassifier is an ensemble technique. There is something called voting classifier, try that as well.
+2. Exploring NN based clasifiers and apply the NN classifier on your dataset. Run for min 10 epoches.
+Implementation of NN clasifier in Tensorflow, or you can also try Pytorch implementation.
+3. Compare the results of your ML best performing algorithm to NN algorithm. ANd compare the results.
+4. Explore azure cloud AI deployment strategy. Is Azure ML the only option? what are other options to deploy your ML/DL model?
+5. Deploy the AI model on Azure ML as realtime endpoint as well as batch endpoint. Test the same. Include the MLFlow while deploying the model. You have to use Python SDK.
+6. Consume the AI model on a sample python application or python script by sending the API call yout online/batch deployment and getting the inference result.
+7. Create a front-end web-app using Flask or Django framework.
+8. Upload the project to Github repo for source control. Upload the scripts and best run model file, the parameters, artifacts.
+9. Create a detailed report of all the steps you have taken, why did you chose the specific step and what are the advantages? what improvements can be done if any? What alternatives can be done in each step?
+10. (Optional) Showcase the project with a presentation. Make use of the report to generate the presentation.
+And share the same in a LinkedIn Post and tag SkillUp.
